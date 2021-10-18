@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RTreeTemplate.dir/MemoryTest.cpp.o  -o RTreeTemplate 

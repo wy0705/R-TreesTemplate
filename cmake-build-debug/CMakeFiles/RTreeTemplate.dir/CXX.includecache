@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wy/下载/cuda/RTreeTemplate/MemoryTest.cpp
+stdio.h
+-
+memory.h
+-
+RTree.h
+/home/wy/下载/cuda/RTreeTemplate/RTree.h
+
+/home/wy/下载/cuda/RTreeTemplate/RTree.h
+stdio.h
+-
+math.h
+-
+assert.h
+-
+stdlib.h
+-
+
